@@ -1,0 +1,12 @@
+jsonSchemaVersion: 1
+tables:
+- schema: dbo
+  name: Customers
+  columns:
+  - name: FullName
+    dataset: FullNames
+  - name: Email
+    dataset: EmailAddresses
+  - name: Phone
+    dataset: PhoneNumbers
+

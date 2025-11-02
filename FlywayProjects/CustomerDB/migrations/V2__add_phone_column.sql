@@ -1,0 +1,1 @@
+ALTER TABLE Customers ADD Phone NVARCHAR(20);
